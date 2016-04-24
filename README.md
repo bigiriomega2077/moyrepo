@@ -1,3 +1,3 @@
-# Welcome to Moy Repo
-
-I'm teaching my cousin how to code, and we will get some work done here
+# moyrepo
+Teaching my cousin how to code
+Ok Edit it, add some text, and then see if you can commit it
